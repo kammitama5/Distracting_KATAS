@@ -9,3 +9,4 @@ string_to_array("I love arrays they are my favourite")
 #["I", "love", "arrays", "they", "are", "my", "favourite"]
 string_to_array("1 2 3") #["1", "2", "3"]
 string_to_array("") # returns []
+
