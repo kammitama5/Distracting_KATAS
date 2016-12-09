@@ -14,3 +14,4 @@ remove_char('country')
 remove_char('person')
 remove_char('place')
 remove_char('ok')
+
