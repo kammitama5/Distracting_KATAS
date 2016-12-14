@@ -21,3 +21,4 @@ get_middle("testing") # should return "t"
 get_middle("middle") # should return "dd"
 get_middle("A") # should return "A"
 get_middle("of") # should return "of"
+
