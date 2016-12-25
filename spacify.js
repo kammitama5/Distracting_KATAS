@@ -7,3 +7,4 @@ function spacify(str) {
   }
   console.log(arr.join(" "))
 }
+
