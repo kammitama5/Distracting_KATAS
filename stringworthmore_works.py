@@ -21,3 +21,4 @@ def highest_value(a, b):
         return b 
       else:
         return "None"
+
