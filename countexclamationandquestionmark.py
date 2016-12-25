@@ -9,3 +9,5 @@ def product(s):
 product('') #0
 product('!') #0
 product('!!??!!') #8
+
+
