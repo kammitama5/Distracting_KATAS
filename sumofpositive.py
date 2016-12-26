@@ -4,3 +4,4 @@ def positive_sum(arr):
         if i > 0:
             counter += i
     return counter
+
