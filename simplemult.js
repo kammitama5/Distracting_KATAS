@@ -6,3 +6,5 @@ function simpleMultiplication(num){
     {
       return num * 9
     }
+    
+    
