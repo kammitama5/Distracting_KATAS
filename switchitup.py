@@ -19,3 +19,5 @@ def switch_it_up(number):
         return "Nine"
     else:
         return "Zero"
+    
+    
