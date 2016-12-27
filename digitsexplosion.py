@@ -45,3 +45,4 @@ explode("102269") #"12222666666999999999"
 explode("0") # returns ""
 explode("000") # returns ""
 explode("123") # returns "122333"
+
