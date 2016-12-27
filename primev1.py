@@ -22,3 +22,4 @@ is_prime(30)
 is_prime(31)
 is_prime(15)
 is_prime(0)
+
