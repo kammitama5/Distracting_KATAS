@@ -9,3 +9,6 @@ This is mainly because I like working on puzzles and am working on getting bette
 
 I also have a bad habit of not leaving \n after my code. Need to get better at including that on Github.
 I apologize for meaningless commits of \n, but it won't become a habit.
+
+Making a list of concepts learning through katas:
+ 1. Recursion  with Memoization
