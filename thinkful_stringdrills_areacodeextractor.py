@@ -5,3 +5,4 @@ def area_code(text):
     #print w
     q = ''.join(w)
     return q[1:4]
+
