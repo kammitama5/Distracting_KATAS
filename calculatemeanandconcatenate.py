@@ -21,3 +21,4 @@ def mean(lst):
   array.append(bread)
   array.append(wonder)
   return array
+
