@@ -14,3 +14,4 @@ function generateIntegers(m, n){
     
     
 generateIntegers(2, 5)  //, [2, 3, 4, 5]
+
