@@ -6,3 +6,4 @@ def length_of_line(array):
     hyp = (side1 + side2) ** 0.50
     
     return str("%.2f" % hyp)
+
