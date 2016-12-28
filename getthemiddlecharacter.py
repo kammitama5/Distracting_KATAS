@@ -12,3 +12,5 @@ def get_middle(s):
     else:
       w1 = (len(s) / 2)  
       return s[w1]
+   
+   
