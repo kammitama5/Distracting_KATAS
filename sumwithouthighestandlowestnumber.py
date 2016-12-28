@@ -17,3 +17,5 @@ def sum_array(arr):
     
     
     return counter
+  
+  
