@@ -7,3 +7,5 @@ def sale_hotdogs(n):
         return 90 * n
     else:
         "I have no idea"
+        
+        
