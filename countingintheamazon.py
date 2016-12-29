@@ -9,3 +9,5 @@ def count_arara(n):
   else:
       q = ("adak " * ((n - 1) / 2) + "anane")
       return q.rstrip()
+    
+    
