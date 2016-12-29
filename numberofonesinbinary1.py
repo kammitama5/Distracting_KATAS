@@ -5,3 +5,4 @@ def ones(n):
     if i == "1":
       counter = counter + 1
   return counter
+
