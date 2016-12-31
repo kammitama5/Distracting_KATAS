@@ -9,3 +9,4 @@ def quadratic_formula(a, b, c):
     ans.append(root1) 
     ans.append(root2)
     return ans
+
