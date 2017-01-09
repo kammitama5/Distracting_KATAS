@@ -16,3 +16,4 @@ I apologize for meaningless commits of \n, but it won't become a habit.
 Making a list of concepts learning through katas:
  1. Recursion  with Memoization
  2. Binary Expansion
+ 3. Polybius squares
