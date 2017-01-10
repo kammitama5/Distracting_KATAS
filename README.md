@@ -9,6 +9,7 @@ This is mainly because I like working on puzzles and am working on getting bette
   6. Regex (regular expressions) -> need to get better at this
   7. Arithmetic Progression/ sequences in programming -> Design patterns
   8. Dictionaries => key value pairs and matrices
+  9. Enums (specifically in Ruby, which I don't really know right now)
 
 I also have a bad habit of not leaving \n after my code. Need to get better at including that on Github.
 I apologize for meaningless commits of \n, but it won't become a habit.
