@@ -17,3 +17,4 @@ Making a list of concepts learning through katas:
  1. Recursion  with Memoization
  2. Binary Expansion
  3. Polybius squares
+ 4. Hamming Distances
