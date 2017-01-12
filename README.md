@@ -12,6 +12,7 @@ This is mainly because I like working on puzzles and am working on getting bette
   9. Enums (specifically in Ruby, which I don't really know right now)
   10. Bitwise operations => Indempotency, Monotonicity, etc
   11. Currying in other languages (eg. Javascript)
+  12. Datetime in Python (stripping/ parsing using RegEx)
 
 I also have a bad habit of not leaving \n after my code. Need to get better at including that on Github.
 I apologize for meaningless commits of \n, but it won't become a habit.
@@ -21,3 +22,4 @@ Making a list of concepts learning through katas:
  2. Binary Expansion
  3. Polybius squares
  4. Hamming Distances
+ 
