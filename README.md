@@ -26,7 +26,10 @@ Making a list of concepts learning through katas:
  5. Swapping two Numbers without Temp: (where swap is function swap([ary]))
  
       ary[0] = ary[0] + ary[1]
+      
       ary[1] = ary[0] - ary[1]
+      
       ary[0] = ary[0] - ary[1]
+      
  6.
  
