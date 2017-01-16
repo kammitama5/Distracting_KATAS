@@ -31,5 +31,5 @@ Making a list of concepts learning through katas:
       
       ary[0] = ary[0] - ary[1]
       
- 6.
+ 6. Pascal's Triangle
  
