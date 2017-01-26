@@ -32,4 +32,5 @@ Making a list of concepts learning through katas:
       ary[0] = ary[0] - ary[1]
       
  6. Pascal's Triangle
+ 7. Collatz Conjecture (3n + 1)
  
