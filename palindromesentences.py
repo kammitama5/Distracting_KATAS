@@ -11,5 +11,7 @@ def is_palindrome_sentence(s):
       else:
         return False
       return
+
+#was a bug in the server-> does pass kata!
 	  
 	  
