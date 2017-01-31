@@ -1,0 +1,15 @@
+def lowest_product(input):
+        a = list(input)
+        if len(a) < 4:
+          print "Number is too small"
+        else:
+          b =  zip(*[iter(a)]*4)
+          print b
+          for i in b:
+            print i
+            
+            #change str to int then
+            #from operator import mul
+            #c = reduce(mul,i)
+            #print c
+        return
