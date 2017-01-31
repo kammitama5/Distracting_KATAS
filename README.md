@@ -9,7 +9,7 @@ This is mainly because I like working on puzzles and am working on getting bette
   6. Regex (regular expressions) -> need to get better at this
   7. Arithmetic Progression/ sequences in programming -> Design patterns
   8. Dictionaries => key value pairs and matrices
-  9. Enums (specifically in Ruby, which I don't really know right now)
+  9. Enums (specifically in Ruby, which I don't really know right now, or wait...in Python!)
   10. Bitwise operations => Indempotency, Monotonicity, etc
   11. Currying in other languages (eg. Javascript)
   12. Datetime in Python (stripping/ parsing using RegEx)
