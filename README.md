@@ -36,4 +36,5 @@ Making a list of concepts learning through katas:
  8. Isogeny -> Cryptography
  9. Bresenham algorithm
  10. Annulus Theorem 
+ 11. Holomorphic Functions
  
