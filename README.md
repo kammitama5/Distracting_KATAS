@@ -35,6 +35,6 @@ Making a list of concepts learning through katas:
  7. Collatz Conjecture (3n + 1)
  8. Isogeny -> Cryptography
  9. Bresenham algorithm
- 10. Annulus Theorem 
+ 10. Annulus Theorem -> => Area of Annulus-> (PI * L^2) / 4
  11. Holomorphic Functions
  
