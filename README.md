@@ -39,4 +39,5 @@ Making a list of concepts learning through katas:
  11. Holomorphic Functions
  12. Heron's Formula => Math.sqrt(p(p-a)(p-b)(p-c)) where a is length a, b is length b, c is length c and p is perimeter / 2
  13. Monte Carlo Integration
+ 14. Tetration -> Knuth's Up Arrow Notation
  
