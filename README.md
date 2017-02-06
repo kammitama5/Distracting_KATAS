@@ -37,4 +37,5 @@ Making a list of concepts learning through katas:
  9. Bresenham algorithm
  10. Annulus Theorem -> => Area of Annulus-> (PI * L^2) / 4
  11. Holomorphic Functions
+ 12. Heron's Formula => Math.sqrt(p(p-a)(p-b)(p-c)) where a is length a, b is length b, c is length c and p is perimeter / 2
  
