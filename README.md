@@ -40,4 +40,4 @@ Making a list of concepts learning through katas:
  12. Heron's Formula => Math.sqrt(p(p-a)(p-b)(p-c)) where a is length a, b is length b, c is length c and p is perimeter / 2
  13. Monte Carlo Integration
  14. Tetration -> Knuth's Up Arrow Notation vs Conway's Chained arrow notation (1->2->3->4 etc)
- 
+ 15. Zeckendorf's Theorem and Negafibonacci numbers
