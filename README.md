@@ -42,3 +42,4 @@ Making a list of concepts learning through katas:
  14. Tetration -> Knuth's Up Arrow Notation vs Conway's Chained arrow notation (1->2->3->4 etc)
  15. Zeckendorf's Theorem and Negafibonacci numbers
  16. Fenwick trees
+ 17. Logical disjunction/conjunction -> boolean mathematics XOR OR, etc
