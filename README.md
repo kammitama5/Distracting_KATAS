@@ -43,3 +43,4 @@ Making a list of concepts learning through katas:
  15. Zeckendorf's Theorem and Negafibonacci numbers
  16. Fenwick trees
  17. Logical disjunction/conjunction -> boolean mathematics XOR OR, etc
+ 18. Inverse Gamma Function
