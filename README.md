@@ -47,3 +47,4 @@ Making a list of concepts learning through katas:
  19. Jaccard Similarity Coefficient
  20. Chebyshev Polynomials -> de Moivre's formula
  21. Runge's phenomenon
+ 22. Levenshtein distance vs Hamming distance
