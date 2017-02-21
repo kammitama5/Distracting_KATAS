@@ -1,18 +1,15 @@
-import re 
-
 def is_palindrome(s):
-    if type(s) != str:
-      return False
+    arr = []
+    if s == None:
+      return False 
     else:
-        q = s.lower()
-        w = q.split()
-        q = ''.join(w)
-        q1 = re.sub(r'\W+', '', q)
-    
-    
-        if q1[::-1] == q1:
-           return True
-        else:
-          return False
-		  
-		  
+      a = s.lower()
+      for i in a:
+        if i.isalpha() or i.isdigit():
+          arr.append(i)
+        b = ('').join(arr)
+      if b == b[::-1]:
+        return True 
+      else:
+        return False
+		
