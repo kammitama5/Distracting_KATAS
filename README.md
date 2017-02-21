@@ -46,3 +46,4 @@ Making a list of concepts learning through katas:
  18. Inverse Gamma Function
  19. Jaccard Similarity Coefficient
  20. Chebyshev Polynomials -> de Moivre's formula
+ 21. Runge's phenomenon
