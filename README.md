@@ -48,3 +48,4 @@ Making a list of concepts learning through katas:
  20. Chebyshev Polynomials -> de Moivre's formula
  21. Runge's phenomenon
  22. Levenshtein distance vs Hamming distance
+ 23. Edit Distance -> Smith-Waterman algorithm, Needleman-Wunsch algorithm -> NLP applications -> sorting strings
