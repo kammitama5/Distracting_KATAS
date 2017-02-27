@@ -52,3 +52,4 @@ Making a list of concepts learning through katas:
  24. Mobius Function -> number theory/ combinatorics
  25. Trilinear Interpolation
  26. Crypto -> Polygraphic Substitution, Transposition Ciphers, Pigpen Ciphers, Vigenere ciphers
+ 27. Polybius Squares x1 y1 x2 y2 row and column to determine encryption of letter
