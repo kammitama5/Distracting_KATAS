@@ -50,3 +50,4 @@ Making a list of concepts learning through katas:
  22. Levenshtein distance vs Hamming distance
  23. Edit Distance -> Smith-Waterman algorithm, Needleman-Wunsch algorithm -> NLP applications -> sorting strings
  24. Mobius Function -> number theory/ combinatorics
+ 25. Trilinear Interpolation
