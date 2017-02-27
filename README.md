@@ -51,4 +51,4 @@ Making a list of concepts learning through katas:
  23. Edit Distance -> Smith-Waterman algorithm, Needleman-Wunsch algorithm -> NLP applications -> sorting strings
  24. Mobius Function -> number theory/ combinatorics
  25. Trilinear Interpolation
- 26. Crypto -> Polygraphic Substitution, Transposition Ciphers
+ 26. Crypto -> Polygraphic Substitution, Transposition Ciphers, Pigpen Ciphers
