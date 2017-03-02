@@ -53,3 +53,5 @@ Making a list of concepts learning through katas:
  25. Trilinear Interpolation
  26. Crypto -> Polygraphic Substitution, Transposition Ciphers, Pigpen Ciphers, Vigenere ciphers
  27. Polybius Squares x1 y1 x2 y2 row and column to determine encryption of letter
+ 28. Fisher -Yates shuffle, Sattolo's algorithm
+ 29. Taylor Series --> Zeno's paradox
