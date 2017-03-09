@@ -58,3 +58,4 @@ Making a list of concepts learning through katas:
  30. Voronoi (diagram) / Centroidal Voronoi tessellation -> Fortune's algorithm
  31. Petersen Graphs/ Spanning Trees (Combinatorics/ Graph Theory)
  32. Incremental Voronoi Insertion -> Farthest-first-traversal algorithm (greedy algos)
+ 33. Bowyer-Watson Algorithm -> adds point to Delaunay triangulation -> used to obtain Voronoi diagram -> very interesting!
