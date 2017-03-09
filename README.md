@@ -56,3 +56,4 @@ Making a list of concepts learning through katas:
  28. Fisher -Yates shuffle, Sattolo's algorithm
  29. Taylor Series --> Zeno's paradox
  30. Voronoi (diagram) / Centroidal Voronoi tessellation
+ 31. Petersen Graphs/ Spanning Trees (Combinatorics/ Graph Theory)
