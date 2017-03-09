@@ -57,3 +57,4 @@ Making a list of concepts learning through katas:
  29. Taylor Series --> Zeno's paradox
  30. Voronoi (diagram) / Centroidal Voronoi tessellation -> Fortune's algorithm
  31. Petersen Graphs/ Spanning Trees (Combinatorics/ Graph Theory)
+ 32. Incremental Voronoi Insertion -> Farthest-first-traversal algorithm (greedy algos)
