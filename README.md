@@ -59,3 +59,4 @@ Making a list of concepts learning through katas:
  31. Petersen Graphs/ Spanning Trees (Combinatorics/ Graph Theory)
  32. Incremental Voronoi Insertion -> Farthest-first-traversal algorithm (greedy algos)
  33. Bowyer-Watson Algorithm -> adds point to Delaunay triangulation -> used to obtain Voronoi diagram -> very interesting! -> think     point clouds and terrain
+ 34. RMST-> Rectilinear Minimum Spanning Tree -> weight of edge between a pair of pints is rect dist between 2 pts
