@@ -60,3 +60,4 @@ Making a list of concepts learning through katas:
  32. Incremental Voronoi Insertion -> Farthest-first-traversal algorithm (greedy algos)
  33. Bowyer-Watson Algorithm -> adds point to Delaunay triangulation -> used to obtain Voronoi diagram -> very interesting! -> think     point clouds and terrain
  34. RMST-> Rectilinear Minimum Spanning Tree -> weight of edge between a pair of pints is rect dist between 2 pts
+ 35. Antipodal theorem -> Borsuk-Ulam theorem (reading S. Ulam's book)
