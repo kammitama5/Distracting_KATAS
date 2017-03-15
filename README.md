@@ -62,3 +62,4 @@ Making a list of concepts learning through katas:
  34. RMST-> Rectilinear Minimum Spanning Tree -> weight of edge between a pair of pints is rect dist between 2 pts
  35. Antipodal theorem -> Borsuk-Ulam theorem (reading S. Ulam's book)
  36. Baire Category Theorem (BCT)
+ 37. Alpha-Beta Pruning
