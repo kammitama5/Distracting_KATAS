@@ -66,3 +66,4 @@ Making a list of concepts learning through katas:
  38. Ergodic transformations -> "a mapping of a plane onto itself, in which the successive images of a point were dense in the whole   plane." -Ulam
  39. GAN-> Ian G. (AI wtb) generative adversarial network
  40. Evolutionary algorithms (Ud#city)
+ 41. Homomorphic Encryption and Differential Privacy (Ud#city)
