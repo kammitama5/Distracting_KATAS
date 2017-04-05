@@ -68,3 +68,4 @@ Making a list of concepts learning through katas:
  40. Evolutionary algorithms (Ud#city)
  41. Homomorphic Encryption and Differential Privacy (Ud#city)
  42. Motivic Cohomology 
+ 43. Quantum bogosort :)
