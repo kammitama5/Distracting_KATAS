@@ -1,3 +1,5 @@
+* Update ->4/5/17  I bought my first Knuth book today! It's on Combinatorics/Sorting/Searching. This is getting *serious* :)
+
 # Distracting_KATAS
 This is a repo for all the katas that distract me while I'm trying to get work done. 
 This is mainly because I like working on puzzles and am working on getting better at:
