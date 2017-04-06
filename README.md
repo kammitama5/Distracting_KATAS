@@ -71,3 +71,4 @@ Making a list of concepts learning through katas:
  41. Homomorphic Encryption and Differential Privacy (Ud#city)
  42. Motivic Cohomology 
  43. Quantum bogosort :)
+ 44. Pell numbers -> recursive
