@@ -72,3 +72,4 @@ Making a list of concepts learning through katas:
  42. Motivic Cohomology 
  43. Quantum bogosort :)
  44. Pell numbers -> recursive
+ 45. Langton's ant -> two-dimensional universal Turing machine
