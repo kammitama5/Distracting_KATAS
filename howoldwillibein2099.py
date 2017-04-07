@@ -1,14 +1,17 @@
 def calculate_age(year_of_birth, current_year):
-    age = current_year - year_of_birth
-    if age == 0:
-        return "You were born this very year!"
-    elif age == -1:
-        return "You will be born in {} year.".format(abs(age))
-    elif age == 1:
-        return "You are {} year old.".format(age)
-    elif age > 0:
-        return "You are {} years old.".format(age)
-    else:
-        return "You will be born in {} years.".format(abs(age))
-    
-    
+  
+        diff = current_year - year_of_birth
+        
+        # for 0, for -1, for -ves, for 1, for +ves
+        if diff == 0:
+          return "You were born this very year!"
+        elif diff == -1:
+          return "You will be born in 1 year."
+        elif diff == 1:
+          return "You are 1 year old."
+        elif (diff < 0) and (not(diff == -1)):
+          return "You will be born in {} years.".format(abs(diff))
+        else:
+          return "You are {} years old.".format(diff)
+		  
+		  
