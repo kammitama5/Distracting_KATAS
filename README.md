@@ -73,3 +73,4 @@ Making a list of concepts learning through katas:
  43. Quantum bogosort :)
  44. Pell numbers -> recursive
  45. Langton's ant -> two-dimensional universal Turing machine
+ 46. Topological Sort -> DAG (Directed Acrylic Graph)
