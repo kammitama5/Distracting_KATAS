@@ -10,9 +10,6 @@ function foldTo(distance) {
       for (var i = 1; i < a; i++){
         if (Math.pow(2, i) > a){
           var a = i;
-          return(i)
-          break;
-          
         }
       }
     }
