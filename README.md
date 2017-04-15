@@ -75,3 +75,4 @@ Making a list of concepts learning through katas:
  45. Langton's ant -> two-dimensional universal Turing machine
  46. Topological Sort -> DAG (Directed Acrylic Graph)
  47. Grothendieck topology
+ 48. Manacher's algorithm
