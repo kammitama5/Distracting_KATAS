@@ -76,3 +76,4 @@ Making a list of concepts learning through katas:
  46. Topological Sort -> DAG (Directed Acrylic Graph)
  47. Grothendieck topology
  48. Manacher's algorithm
+ 49. Gamma function
