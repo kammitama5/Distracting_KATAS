@@ -77,3 +77,4 @@ Making a list of concepts learning through katas:
  47. Grothendieck topology
  48. Manacher's algorithm
  49. Gamma function
+ 50. Simplicial set
