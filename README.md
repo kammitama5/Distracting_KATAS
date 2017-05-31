@@ -78,3 +78,4 @@ Making a list of concepts learning through katas:
  48. Manacher's algorithm
  49. Gamma function
  50. Simplicial set
+ 51. Hadamard Matrix
