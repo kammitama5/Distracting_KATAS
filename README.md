@@ -79,3 +79,4 @@ Making a list of concepts learning through katas:
  49. Gamma function
  50. Simplicial set
  51. Hadamard Matrix
+ 52. [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub) : pseudorandom number generator
