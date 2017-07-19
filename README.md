@@ -81,3 +81,4 @@ Making a list of concepts learning through katas:
  51. Hadamard Matrix
  52. [Blum Blum Shub](https://en.wikipedia.org/wiki/Blum_Blum_Shub) : pseudorandom number generator
  53. Gyrovector spaces
+ 54. Neville's Method of Polynomial Interpolation
