@@ -85,3 +85,5 @@ Making a list of concepts learning through katas:
  55. Transitivity (graph theory)
  56. Circuits, Cycles, Trees and Digraphs (graph theory)
  57. Heyting Algebra (from PS community on FP)
+ 58. Skeleton Category of Finite Sets (from PS community on FP)
+ 59. Heyting Functors (from PS community on FP)
