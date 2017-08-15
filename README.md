@@ -87,4 +87,4 @@ Making a list of concepts learning through katas:
  57. Heyting Algebra (from PS community on FP)
  58. Skeleton Category of Finite Sets (from PS community on FP)
  59. Heyting Functors (from PS community on FP)
- 60. Cnoidal waves and the Korteweg-de Vries equation
+ 60. Cnoidal waves and the Korteweg-de Vries equation, Boussinesq approximation/ waves
