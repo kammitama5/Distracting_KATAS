@@ -84,3 +84,4 @@ Making a list of concepts learning through katas:
  54. Neville's Method of Polynomial Interpolation
  55. Transitivity (graph theory)
  56. Circuits, Cycles, Trees and Digraphs (graph theory)
+ 57. Heyting Algebra (from PS community on FP)
