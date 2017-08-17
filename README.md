@@ -88,3 +88,4 @@ Making a list of concepts learning through katas:
  58. Skeleton Category of Finite Sets (from PS community on FP)
  59. Heyting Functors (from PS community on FP)
  60. Cnoidal waves and the Korteweg-de Vries equation, Boussinesq approximation/ waves
+ 61. Ultra filters..from E Kiehl's talk on ["A Categorical View of Computational Effects."](https://www.youtube.com/watch?v=6t6bsWVOIzs)
