@@ -90,3 +90,4 @@ Making a list of concepts learning through katas:
  60. Cnoidal waves and the Korteweg-de Vries equation, Boussinesq approximation/ waves
  61. Ultra filters..from E Kiehl's talk on ["A Categorical View of Computational Effects."](https://www.youtube.com/watch?v=6t6bsWVOIzs)
  62. [Kolakoski Sequence/ clumps](http://mathworld.wolfram.com/KolakoskiSequence.html)
+ 63. [Hinton diagrams](http://scipy.github.io/old-wiki/pages/Cookbook/Matplotlib/HintonDiagrams)
