@@ -92,4 +92,7 @@ Making a list of concepts learning through katas:
  62. [Kolakoski Sequence/ clumps](http://mathworld.wolfram.com/KolakoskiSequence.html)
  63. [Hinton diagrams](http://scipy.github.io/old-wiki/pages/Cookbook/Matplotlib/HintonDiagrams)
  64. Outstanding explanation of [DAGs](https://www.youtube.com/watch?v=LOr_abIZL04), Directed Acrylic Graphs, using
-     example of buying travelling (you need to get a visa to get a passport, you need foreign exchange to buy gifts, etc)
+     example of buying travelling (you need to get a visa to get a passport, you need foreign exchange to buy gifts, etc).
+     - Richard Southwell also has a great intro to Mathematica that directly shows the relationship between Adjacency Matrices 
+       and something like Directed Graphs. See [here](https://www.youtube.com/watch?v=Zp1EV7ytSnA).
+     
