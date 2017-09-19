@@ -95,5 +95,5 @@ Making a list of concepts learning through katas:
      example of buying travelling (you need to get a visa to get a passport, you need foreign exchange to buy gifts, etc).
      - Richard Southwell also has a great intro to Mathematica that directly shows the relationship between Adjacency Matrices 
        and something like Directed Graphs. See [here](https://www.youtube.com/watch?v=Zp1EV7ytSnA).
- 65. McGregor Graphs. See [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0) -> Sat Solvers, etc 
+ 65. McGregor Graphs. See [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0) -> Sat Solvers, Van der Waerden's Problem etc 
      
