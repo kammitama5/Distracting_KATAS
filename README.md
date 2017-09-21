@@ -96,4 +96,5 @@ Making a list of concepts learning through katas:
      - Richard Southwell also has a great intro to Mathematica that directly shows the relationship between Adjacency Matrices 
        and something like Directed Graphs. See [here](https://www.youtube.com/watch?v=Zp1EV7ytSnA).
  65. McGregor Graphs. See [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0) -> Sat Solvers, Van der Waerden's Problem etc 
+ 66. Implementing a Garbage Collector in C++ -> [Boehm garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector), [mark-sweep algorithm](https://en.wikipedia.org/wiki/Tracing_garbage_collection)
      
