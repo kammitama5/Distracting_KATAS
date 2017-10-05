@@ -98,4 +98,5 @@ Making a list of concepts learning through katas:
  65. McGregor Graphs. See [Knuth video](https://www.youtube.com/watch?v=g4lhrVPDUG0) -> Sat Solvers, Van der Waerden's Problem etc 
  66. Implementing a Garbage Collector in C++ -> [Boehm garbage collector](https://en.wikipedia.org/wiki/Boehm_garbage_collector), [mark-sweep algorithm](https://en.wikipedia.org/wiki/Tracing_garbage_collection)
  67. [Row Polymorphism vs Subtyping](https://cs.stackexchange.com/questions/53998/what-are-the-major-differences-between-row-polymorphism-and-subtyping?newreg=42826ce8c36945f7af7a4d7c1f9dd216) via PureScript
+ 68. [Grobner basis](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
      
