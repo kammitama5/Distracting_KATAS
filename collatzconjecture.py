@@ -1,12 +1,13 @@
-def collatz(n):
-    arr = []
-    while n != 1:
-        if n % 2 == 0:
-            n = int(n / 2)
-            arr.append(n)
-        else:
-            n = int(3 * n + 1)
-            arr.append(n)
-    else:
-       return len(arr) + 1
-	   
+def get_collatz(n):
+    #print n 
+    count = 0 
+    while (not n == 1):
+      if n % 2 == 0:
+        n = n / 2 
+        count = count + 1 
+      else:
+        n = (3 * n) + 1 
+        count = count + 1 
+    return count
+	
+	
