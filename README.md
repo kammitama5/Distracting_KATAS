@@ -101,5 +101,5 @@ Making a list of concepts learning through katas:
  68. [Grobner basis](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis)
  69. [System F vs System](https://en.wikipedia.org/wiki/System_F) U and [Graph Reduction](https://en.wikipedia.org/wiki/Graph_reduction)
      - pertaining to Haskell compiler and lazy evaluation
- 70.
+ 70. Runge-Katta and Lipschitz Continuity, Adams Moulton
      
