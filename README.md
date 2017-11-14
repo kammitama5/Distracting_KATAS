@@ -102,4 +102,5 @@ Making a list of concepts learning through katas:
  69. [System F vs System](https://en.wikipedia.org/wiki/System_F) U and [Graph Reduction](https://en.wikipedia.org/wiki/Graph_reduction)
      - pertaining to Haskell compiler and lazy evaluation
  70. Runge-Katta and Lipschitz Continuity, Adams Moulton
- 71. [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum) (see this Lambda World talk on [Naperian Functors](https://www.youtube.com/watch?v=D1sT0xNrHIQ))   
+ 71. [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum) (see this Lambda World talk on [Naperian Functors](https://www.youtube.com/watch?v=D1sT0xNrHIQ)) 
+ 72. [Tambara functors](https://www.youtube.com/watch?v=l1FCXUi6Vlw) from Bartosz talk (which I usually have to watch about five times)
