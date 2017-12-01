@@ -104,4 +104,4 @@ Making a list of concepts learning through katas:
  70. Runge-Katta and Lipschitz Continuity, Adams Moulton
  71. [Prefix sum](https://en.wikipedia.org/wiki/Prefix_sum) (see this Lambda World talk on [Naperian Functors](https://www.youtube.com/watch?v=D1sT0xNrHIQ)) 
  72. [Tambara functors](https://www.youtube.com/watch?v=l1FCXUi6Vlw) from Bartosz talk (which I usually have to watch about five times)
- 73. [Bitonic Sort](https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/bitonic_overview.html) courtesy of [Compiling to Categories] by Conal(https://www.youtube.com/watch?v=SVRYcrhRCes)
+ 73. [Bitonic Sort](https://www.cs.rutgers.edu/~venugopa/parallel_summer2012/bitonic_overview.html) courtesy of [Compiling to Categories](https://www.youtube.com/watch?v=SVRYcrhRCes)
