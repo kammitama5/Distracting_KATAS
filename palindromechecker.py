@@ -1,15 +1,10 @@
-def is_palindrome(s):
-    arr = []
-    if s == None:
-      return False 
+def palindrome(word):
+    word = ''.join([i for i in word if i.isalpha()])
+    word = word.lower()
+    #if len(word) < 3:
+      #return False 
+    if word == word[::-1]:
+      return True 
     else:
-      a = s.lower()
-      for i in a:
-        if i.isalpha() or i.isdigit():
-          arr.append(i)
-        b = ('').join(arr)
-      if b == b[::-1]:
-        return True 
-      else:
-        return False
-		
+      return False
+	  
